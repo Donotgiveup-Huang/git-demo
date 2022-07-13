@@ -15,6 +15,6 @@ hello git! hello dachaaaang!
 hello git! hello dachaaaang!
 hello git! hello dachaaaang!
 hello git! hello dachaaaang!
-hello git! hello dachaaaang!
+hello git! hello dachaaaang!hot-fix test
 hello git! hello dachaaaang!  master test
 hello git! hello dachaaaang!  
